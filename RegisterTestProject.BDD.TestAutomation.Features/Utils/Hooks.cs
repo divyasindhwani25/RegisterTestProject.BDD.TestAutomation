@@ -1,6 +1,5 @@
 ﻿using Microsoft.Playwright;
 using NUnit.Framework;
-using RegisterTestProject.BDD.TestAutomation.Features.WebDriver;
 using Reqnroll;
 using System;
 using System.IO;
